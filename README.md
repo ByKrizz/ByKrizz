@@ -37,7 +37,7 @@ Disfruto diseñar soluciones eficientes, optimizar procesos y explorar nuevas te
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologias 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -52,7 +52,7 @@ Disfruto diseñar soluciones eficientes, optimizar procesos y explorar nuevas te
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contactame 🤝</h2></summary>
   </ul>
 </div>
 
